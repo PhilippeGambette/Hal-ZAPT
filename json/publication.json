@@ -1,0 +1,14 @@
+{
+	"publication":
+	[
+		{"name":"Articles dans revues avec comité de lecture","code":"ACL","param":"docType_s:%22ART%22%20AND%20peerReviewing_s:1"},
+		{"name":"Articles dans revues sans comité de lecture","code":"ASCL","param":"docType_s:%22ART%22%20AND%20peerReviewing_s:0"},
+		{"name":"Communication dans des conférences (avec et sans actes, posters)","code":"COMM","param":"(docType_s:%22POSTER%22%20OR%20docType_s:%22COMM%22)%20AND%20invitedCommunication_s:0"},
+		{"name":"Conférences invitées","code":"INV","param":"(docType_s:%22POSTER%22%20OR%20docType_s:%22COMM%22)%20AND%20invitedCommunication_s:1"},
+		{"name":"Ouvrages scientifiques","code":"OUV","param":"docType_s:%22OUV%22%20AND%20popularLevel_s:0"},
+		{"name":"Direction d’ouvrages","code":"DOUV","param":"docType_s:%22DOUV%22%20AND%20popularLevel_s:0"},
+		{"name":"Chapitres d’ouvrages","code":"COUV","param":"docType_s:%22COUV%22%20AND%20popularLevel_s:0"},
+		{"name":"Brevets","code":"PATENT","param":"docType_s:%22PATENT%22"},
+		{"name":"Ouvrages et chapitres de vulgarisation","code":"VULG","param":"(docType_s:%22OUV%22%20OR%20docType_s:%22COUV%22)%20AND%20popularLevel_s:1"}
+	]
+}

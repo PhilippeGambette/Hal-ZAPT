@@ -1,0 +1,74 @@
+{
+	"structure":
+	[
+		{
+			"building":"UPEC",
+			"value":
+			[
+				{"name":"ARSSC", "id":215225},
+				{"name":"BCTSVT", "id":215224},
+				{"name":"BIOEMCO", "id":31573},
+				{"name":"BIPAR", "id":37860},
+				{"name":"CBTIERT", "id":203534},
+				{"name":"CEDITEC", "id":36651},
+				{"name":"CERTES", "id":25533},
+				{"name":"CIRCEFT", "id":106111},
+				{"name":"CRHEC", "id":105443},
+				{"name":"CRRET", "id":190965},
+				{"name":"ENPC-LEESU", "id":155441},
+				{"name":"ENT", "id":163599},
+				{"name":"ERUDITE", "id":74242},
+				{"name":"ICMPE", "id":24508},
+				{"name":"IMAGER", "id":105444},
+				{"name":"IMRB", "id":27464},
+				{"name":"IRG", "id":57129},
+				{"name":"LABURBA", "id":104173},
+				{"name":"LACL", "id":1662},
+				{"name":"LAMA_UMR8050", "id":29},
+				{"name":"LARGOTEC", "id":105446},
+				{"name":"LDAR", "id":143355},
+				{"name":"LGP", "id":1343},
+				{"name":"LIC", "id":206343},
+				{"name":"LIS_UPEC", "id":219256},
+				{"name":"LISA", "id":1126},
+				{"name":"LISIS ?", "id":414035},
+				{"name":"LISSI", "id":26324},
+				{"name":"MSME", "id":84321},
+				{"name":"OBM", "id":105448},
+				{"name":"PLMC", "id":104162},
+				{"name":"SDIE", "id":105449}
+			]
+		},
+		{
+			"building":"UPEM",
+			"value":
+			[
+				{"name":"ACP", "id":107872},
+				{"name":"EEP", "id":105483},
+				{"name":"ENPC-LVMT", "id":222115},
+				{"name":"ERUDITE", "id":74242},
+				{"name":"ESYCOM", "id":43154},
+				{"name":"IMAGER", "id":105444},
+				{"name":"IRG", "id":57129},
+				{"name":"LABURBA", "id":104173},
+				{"name":"LAMA_UMR8050", "id":29},
+				{"name":"LATTS", "id":1278},
+				{"name":"LGE", "id":104161},
+				{"name":"LIGM", "id":3210},
+				{"name":"LISAA", "id":105538},
+				{"name":"LPMDI", "id":190787},
+				{"name":"MSME", "id":84321}
+			]
+		},
+		{
+			"building":"ENPC",
+			"value":
+			[
+				{"name":"ENPC-LEESU", "id":155441},
+				{"name":"ENPC-LVMT", "id":222115},
+				{"name":"LATTS", "id":1278},
+				{"name":"LIGM", "id":3210}
+			]
+		}
+	]
+}
